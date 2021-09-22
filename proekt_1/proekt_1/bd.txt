@@ -1,0 +1,6 @@
+ 22 Metro2033 DmitriiGluhovskiy fantezi  134$ *** a1
+ 23 Poliana ElionorPorter putishestviya  54$ ** a2
+ 15 Voin RobertSalvator fantastika  250$ ***** a3
+ 31 MeinKampf Adolf aftobiografiya  150$ **** a4
+ 2 Nevidimuy GerbertVells skazka  43$ *** a5 
+ 123 123 12312 3123  123 123 123

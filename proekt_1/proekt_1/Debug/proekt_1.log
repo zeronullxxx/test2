@@ -1,0 +1,21 @@
+﻿  book.cpp
+  main.cpp
+C:\Users\ADMIN\source\repos\proekt_1\proekt_1\main.cpp(60,29): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\ADMIN\source\repos\proekt_1\proekt_1\main.cpp(60,40): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\ADMIN\source\repos\proekt_1\proekt_1\main.cpp(646,347): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\ADMIN\source\repos\proekt_1\proekt_1\main.cpp(646,347): message : заполнители и их параметры ожидают переменное число аргументов в количестве 7, но было предоставлено 8
+C:\Users\ADMIN\source\repos\proekt_1\proekt_1\main.cpp(664,186): warning C4474: "fprintf" : для строки формата передано слишком много аргументов
+C:\Users\ADMIN\source\repos\proekt_1\proekt_1\main.cpp(664,186): message : заполнители и их параметры ожидают переменное число аргументов в количестве 7, но было предоставлено 8
+C:\Users\ADMIN\source\repos\proekt_1\proekt_1\main.cpp(707,185): warning C4474: "fscanf" : для строки формата передано слишком много аргументов
+C:\Users\ADMIN\source\repos\proekt_1\proekt_1\main.cpp(707,185): message : заполнители и их параметры ожидают переменное число аргументов в количестве 7, но было предоставлено 8
+C:\Users\ADMIN\source\repos\proekt_1\proekt_1\main.cpp(765,335): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\ADMIN\source\repos\proekt_1\proekt_1\main.cpp(765,335): message : заполнители и их параметры ожидают переменное число аргументов в количестве 7, но было предоставлено 8
+C:\Users\ADMIN\source\repos\proekt_1\proekt_1\main.cpp(782,334): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\ADMIN\source\repos\proekt_1\proekt_1\main.cpp(782,334): message : заполнители и их параметры ожидают переменное число аргументов в количестве 7, но было предоставлено 8
+C:\Users\ADMIN\source\repos\proekt_1\proekt_1\main.cpp(798,335): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\ADMIN\source\repos\proekt_1\proekt_1\main.cpp(798,335): message : заполнители и их параметры ожидают переменное число аргументов в количестве 7, но было предоставлено 8
+C:\Users\ADMIN\source\repos\proekt_1\proekt_1\main.cpp(829,335): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\ADMIN\source\repos\proekt_1\proekt_1\main.cpp(829,335): message : заполнители и их параметры ожидают переменное число аргументов в количестве 7, но было предоставлено 8
+  reader.cpp
+  Создание кода...
+  proekt_1.vcxproj -> C:\Users\ADMIN\source\repos\proekt_1\Debug\proekt_1.exe
